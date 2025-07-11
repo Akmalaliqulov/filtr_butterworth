@@ -1,2 +1,2 @@
 # filtr_butterworth
-Butterworth bandpass filter
+Ushbu repositoryda Butterworth bandpass filter dastur kodi mavjud
